@@ -12,15 +12,11 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam nec lacus lorem. Mo
 
 In sit amet odio lacus. Mauris quis varius odio. Aenean sit amet eros volutpat quam hendrerit suscipit eu ac leo. Nam neque neque, elementum ut commodo sit amet, lacinia maximus arcu. Nulla scelerisque ipsum non gravida pulvinar. Aenean sit amet porttitor ligula. Donec eu nulla neque.
 
-## Education
+## :fontawesome-solid-user-graduate: Education
 
-
-
-:fontawesome-solid-user-graduate: UNISA: **BSC Degree in Physics and Chemistry (in progress)**
-
-:fontawesome-solid-user-graduate: Atlantic International University: **Degree in Animation**
-
-:school: Bridge House: **Highschool**
+* UNISA: **BSC Degree in Physics and Chemistry (in progress)**
+* Atlantic International University: **Degree in Animation**
+* Bridge House: **Highschool**
 
 ## Skills & Experience
 
@@ -30,7 +26,7 @@ In sit amet odio lacus. Mauris quis varius odio. Aenean sit amet eros volutpat q
 
 <u>Lab Assistant</u>: Capable lab assistant for setting up apparatus and glassware, titration, A/B extraction etc. Familiar with the general chemistry laboratory environment.
 
-## Experience
+## :fontawesome-solid-briefcase: Experience
 
 ### Tutoring
 
@@ -51,7 +47,7 @@ In order to gain experience, you need employment, but in order to get
 employment you need experience. Although I am confident that my
 ability speaks for itself.
 
-## :fontawesome Skills
+## :fontawesome-solid-flask-vial: Skills
 
 ### Lab hand
 
