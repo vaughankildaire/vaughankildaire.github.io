@@ -5,6 +5,11 @@ theme:
   icon:
     logo: fontawesome/solid/flask
 
+extra:
+  generator: false
+
+copyright: <img style="float:right;gap;margin-left:20px" src="/signature_w.png" width=200></img>
+
 markdown_extensions:
   - pymdownx.superfences
   - pymdownx.tabbed:
