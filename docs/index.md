@@ -42,7 +42,7 @@ This includes letters of reference from past clients.
 ### Lab work
 
 I must state clearly that as of now (2022) I do not have experience from
-employment. However, I Do Have Laboratory experience from practical
+employment. However, **I do have laboratory** experience from practical
 work in my studies, as well as working on my own chemistry projects with
 my own apparatus and reagents (limited that may be).
 In order to gain experience, you need employment, but in order to get
