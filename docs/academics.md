@@ -46,7 +46,20 @@ Below are my academic transcripts from the past (TODO: fill year in dynamically)
 
     | Year | Month | Code | Name of Study Unit | Percentage (%) | NQF level | NQF crds |
     | ---- | ---- | ---- | ---- | ----- | ---- | ---- |
-
+    |2023  |OCT   |CHE261-2 Physical Chemistry II (Theory) |36 |Failed |6 | |
+    |2024  |FEB   |CHE261-2 Physical Chemistry II (Theory) |76 |Passed with Distinction |6 |8|
+    |2023  |OCT   |CHE261-4 Analytical Chemistry II (Theory) |67 |Passed |6 |8|
+    |2023  |OCT   |CHE262-2 Physical Chemistry II (Practical) |80 |Passed with Distinction |6 |4|
+    |2023  |OCT   |CHE262-4 Analytical Chemistry II (Practical) |85 |Passed with Distinction |6 |4|
+    |2023  |OCT   |CHE370-1 Inorganic Chemistry III |71 |Passed |7 |12|
+    |2023  |OCT   |CHE370-3 Organic Chemistry III |62 |Passed |7 |12|
+    |2023  |OCT   |PHY260-4 Physics Practical Work II |68 |Passed |6 |12|
+    |2023  |OCT   |PHY370-2 Quantum Physics |78 |Passed with Distinction |7 |12|
+    |2023  |OCT   |PHY370-3 Statistical and Thermal Physics |80 |Passed with Distinction |7 |12|
+    |2023  |OCT   |PHY370-7 Solid State Physics |28 |Failed |7 | |
+    |2024  |FEB   |PHY370-7 Solid State Physics |80 |Passed with Distinction |7 |12|
+    |2023  |OCT   |PHY370-8 Atomic and Nuclear Physics |84 |Passed with Distinction |7 |12|
+    |2023  |OCT   |PHY370-9 Computational Modeling |92 |Passed with Distinction |7 |12|
     <!-- TODO: Add download link here -->
-    <center>[Official transcript :octicons-download-24:](#){ .md-button }</center>
+    <center>[(Available soon) Official transcript :octicons-download-24:](#){ .md-button }</center>
 
