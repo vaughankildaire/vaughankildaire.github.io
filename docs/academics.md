@@ -1,11 +1,7 @@
 :fontawesome-solid-scroll: Academic record
 ===============
 
-TODO: Put degree here
-
-TODO: Put academic record here as table and as photo
-
-Below are my academic transcripts from the past (TODO: fill year in dynamically) years, you can also download the official transcript by clicking the link below the table.
+Below are my academic transcripts from the past years, you can also download the official transcript by clicking the link below the table.
 
 === "First year"
 
