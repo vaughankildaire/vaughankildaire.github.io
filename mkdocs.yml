@@ -25,6 +25,7 @@ nav:
   - Home: index.md
   - Academic record: academics.md
   - Education: education.md
+  - Experience: experience.md
   - Personal projects:
       - Index: projects/
       - Lye concentration: projects/lye_concentration

@@ -1,6 +1,8 @@
 :fontawesome-solid-circle-info: About me
 ========
 
+<a href="../lab_pic.jpg"><img style="float:left;gap;margin-right:15px" src="../lab_pic.jpg" width=360></img></a>
+
 I enjoy learning, that is possibly the most prominent aspect I have. My love for teaching and explaining concepts to others is ultimately and an excellent understanding of the subjects I have studied, naturally lead me to become a tutor. I find communication with students easy as there I have learnt to adapt my mindset to the age and demographic in question, also in a social setting I enjoy conversation of
 a wide spectrum of topics of varying diversity.
 
@@ -11,3 +13,10 @@ is that trying ones best to be the best, can and does often lead to improvement 
 surpass those that you admire and with to be like, Improvement and success although not guaranteed, will often follow as a natural result.
 But yes, if you do better than your friend that is a bonus, the point being the effort in the process that is important.
 I enjoy working with a lab partner during practical chemistry work. I found that the ability to designate and execute particular tasks that make up a greater process, doing it efficiently and effectively, is a rewarding feeling.
+
+I love working in a **small team** (granted people are respectful), I find things move much faster with a cooperative effort, and Helping
+others is something I’m a bit too
+naturally inclined to do sometimes.
+Thank you for taking the time to read
+this, and hopefully it was informative
+at the very least.
