@@ -92,8 +92,3 @@ environment.
 <center>[View my CV :octicons-download-24:](docs/cv.pdf){ .md-button }</center>
 
 <br>
-<br>
-<br>
-<br>
-
-<img style="float:right;gap;margin-left:20px" src="signature.png" width=200></img>
