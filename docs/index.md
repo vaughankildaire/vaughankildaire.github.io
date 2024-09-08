@@ -22,6 +22,8 @@ In sit amet odio lacus. Mauris quis varius odio. Aenean sit amet eros volutpat q
 
 <u>Educator</u>: Tutoring in math, physics and chemistry.
 
+<u>Programming</u>: Python and C++ experience and study for personal, academic, and other applied usage projects.
+
 <u>Arts</u>: 3D Animation. Minor experience in Voice acting. Instruments; guitar and bass. Painting; oil on canvas and digital (photoshop).
 
 <u>Lab Assistant</u>: Capable lab assistant for setting up apparatus and glassware, titration, A/B extraction etc. Familiar with the general chemistry laboratory environment.
@@ -83,9 +85,15 @@ environment.
 
 1. [Chemistry project: Soap]()
 
+---
+
+<br>
+
+<center>[View my CV :octicons-download-24:](transcripts/13641751_exam_results%20Year3-B.pdf){ .md-button }</center>
+
 <br>
 <br>
 <br>
 <br>
 
-<img src="signature_w.png" width=250></img>
+<img style="float:right;gap;margin-left:20px" src="signature.png" width=200></img>
