@@ -21,16 +21,26 @@ Below are my academic transcripts from the past (TODO: fill year in dynamically)
     |2021 |OCT |PHY150-6 |Electromagnetism and Heat (Fisika)| 90| Passed with Distinction |5 |12|
     |2021 |OCT |PLS260-7 |Philosophy of Science |68 |Passed |6 |12|
 
-    <!-- TODO: Add download link here -->
-    <center>[Official transcript :octicons-download-24:](#){ .md-button }</center>
+    <center>[Official transcript :octicons-download-24:](transcripts/13641751_exam_results Year1.pdf){ .md-button }</center>
 
 === "Second year"
 
     | Year | Month | Code | Name of Study Unit | Percentage (%) | NQF level | NQF crds |
     | ---- | ---- | ---- | ---- | ----- | ---- | ---- |
+    |2022  |OCT   |APM261-1 |Differential Equations |Supplementary Examination |6 | |
+    |2023  |FEB   |APM261-1 |Differential Equations |51 |Passed |6 |12|
+    |2022  |OCT   |CHE261-1 Inorganic Chemistry II (Theory) |67 |Passed |6 |8|
+    |2022  |OCT   |CHE261-3 Organic Chemistry II (Theory) |66 |Passed |6 |8|
+    |2022  |OCT   |CHE262-1 Inorganic Chemistry II (Practical) |64 |Passed |6 |4|
+    |2022  |OCT   |CHE262-3 Organic Chemistry II (Practical) |81 |Passed with Distinction |6 |4|
+    |2022  |OCT   |MAT161-3 Calculus B |87 |Passed with Distinction |6 |12|
+    |2022  |OCT   |MAT261-1 Linear Algebra 2 |83 |Passed with Distinction |6 |12|
+    |2022  |OCT   |PHY160-4 Modern Physics |85 |Passed with Distinction |6 |12|
+    |2022  |OCT   |PHY260-1 Classical Mechanics |90 |Passed with Distinction |6 |12|
+    |2022  |OCT   |PHY260-2 Electricity and Magnetism (Physics) |61 |Passed |6 |12|
+    |2022  |OCT   |PHY260-6 Waves (Physics) |72 |Passed |6 |12|
 
-    <!-- TODO: Add download link here -->
-    <center>[Official transcript :octicons-download-24:](#){ .md-button }</center>
+    <center>[Official transcript :octicons-download-24:](transcripts/13641751_exam_results%20Year2.pdf){ .md-button }</center>
 
 === "Third year"
 
