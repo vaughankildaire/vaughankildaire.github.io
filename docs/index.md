@@ -83,3 +83,9 @@ environment.
 
 1. [Chemistry project: Soap]()
 
+<br>
+<br>
+<br>
+<br>
+
+<img src="signature_w.png" width=250></img>
