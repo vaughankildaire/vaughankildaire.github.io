@@ -14,9 +14,6 @@ surpass those that you admire and with to be like, Improvement and success altho
 But yes, if you do better than your friend that is a bonus, the point being the effort in the process that is important.
 I enjoy working with a lab partner during practical chemistry work. I found that the ability to designate and execute particular tasks that make up a greater process, doing it efficiently and effectively, is a rewarding feeling.
 
-I love working in a **small team** (granted people are respectful), I find things move much faster with a cooperative effort, and Helping
-others is something I’m a bit too
-naturally inclined to do sometimes.
-Thank you for taking the time to read
-this, and hopefully it was informative
-at the very least.
+I love working in a **small team** (granted people are respectful), I find things move much faster with a cooperative effort, and **Helping others** is something I am naturally inclined to do.
+
+**Thank you** for taking the time to read this, and hopefully it was informative at the very least.
