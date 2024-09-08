@@ -89,7 +89,7 @@ environment.
 
 <br>
 
-<center>[View my CV :octicons-download-24:](transcripts/13641751_exam_results%20Year3-B.pdf){ .md-button }</center>
+<center>[View my CV :octicons-download-24:](docs/cv.pdf){ .md-button }</center>
 
 <br>
 <br>
