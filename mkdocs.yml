@@ -2,6 +2,8 @@ site_name: Vaughan Royce Kildaire
 
 theme:
   name: material
+  icon:
+    logo: fontawesome/solid/flask
 
 markdown_extensions:
   - pymdownx.superfences
