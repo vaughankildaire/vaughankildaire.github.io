@@ -1,4 +1,4 @@
-Education
+:fontawesome-solid-user-graduate: Education
 =========
 
 ## Jan. 2021 – present 

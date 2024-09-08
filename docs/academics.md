@@ -1,4 +1,4 @@
-Academic record
+:fontawesome-solid-scroll: Academic record
 ===============
 
 TODO: Put degree here

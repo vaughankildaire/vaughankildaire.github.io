@@ -1,4 +1,4 @@
-About me
+:fontawesome-solid-circle-info: About me
 ========
 
 I enjoy learning, that is possibly the most prominent aspect I have. My love for teaching and explaining concepts to others is ultimately and an excellent understanding of the subjects I have studied, naturally lead me to become a tutor. I find communication with students easy as there I have learnt to adapt my mindset to the age and demographic in question, also in a social setting I enjoy conversation of

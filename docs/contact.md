@@ -1,4 +1,4 @@
-Contact me
+:fontawesome-solid-phone: Contact me
 ==========
 
 :house: **Address**: 44 Drommedaris Crescent, Van Riebeeck Park, Worcester, 6850, South Africa.
