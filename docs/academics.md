@@ -60,6 +60,6 @@ Below are my academic transcripts from the past (TODO: fill year in dynamically)
     |2024  |FEB   |PHY370-7 Solid State Physics |80 |Passed with Distinction |7 |12|
     |2023  |OCT   |PHY370-8 Atomic and Nuclear Physics |84 |Passed with Distinction |7 |12|
     |2023  |OCT   |PHY370-9 Computational Modeling |92 |Passed with Distinction |7 |12|
-    <!-- TODO: Add download link here -->
-    <center>[(Available soon) Official transcript :octicons-download-24:](#){ .md-button }</center>
+    <center>[Official transcript (Year A) :octicons-download-24:](transcripts/13641751_exam_results%20Year3-A.pdf){ .md-button }</center>
+    <center>[Official transcript (Year A) :octicons-download-24:](transcripts/13641751_exam_results%20Year3-B.pdf){ .md-button }</center>
 
