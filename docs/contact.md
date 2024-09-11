@@ -7,9 +7,9 @@
 
 :telephone: **Landline (home)**: 0233474873
 
-:e-mail: **E-mail**: mcvaughan.kildaire@gmail.com
+:e-mail: **E-mail**: [mcvaughan.kildaire@gmail.com](mailto:mcvaughan.kildaire@gmail.com)
 
-:e-mail: **E-mail (Work)**: slugvector@gmail.com
+:e-mail: **E-mail (Work)**: [v.r.kildairework@gmail.com](mailto:v.r.kildairework@gmail.com)
 
 <!-- TODO: chnage this e-mail address maybe -->
-:e-mail: **E-mail (Tutoring enquiries)**: lola.nervs@gmail.com
+:e-mail: **E-mail (Tutoring enquiries)**: [lola.nervs@gmail.com](mailto:lola.nervs@gmail.com)
