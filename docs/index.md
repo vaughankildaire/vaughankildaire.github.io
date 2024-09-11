@@ -8,9 +8,7 @@ $$
 \Gamma \left( x \right) = \int\limits_0^\infty {s^{x - 1} e^{ - s} ds}
 $$
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam nec lacus lorem. Morbi facilisis, justo id semper eleifend, eros tellus pharetra neque, sit amet cursus dolor mi eu nisi. Nam rutrum ultrices aliquam. Nullam ac aliquet tellus. Nam fermentum metus et mauris maximus bibendum. Nam condimentum blandit lacus eu euismod. Ut sodales eget velit eu egestas. Donec nec dui et purus hendrerit luctus. Vestibulum molestie ullamcorper quam, eu ultrices turpis tincidunt sed. Etiam sollicitudin dui lectus, vel iaculis nunc molestie nec. Nunc a sapien vitae tortor elementum rhoncus eget vitae nulla. Cras tincidunt libero nulla, eget dictum ligula suscipit a. Praesent blandit odio tincidunt neque bibendum, in posuere lacus efficitur.
 
-In sit amet odio lacus. Mauris quis varius odio. Aenean sit amet eros volutpat quam hendrerit suscipit eu ac leo. Nam neque neque, elementum ut commodo sit amet, lacinia maximus arcu. Nulla scelerisque ipsum non gravida pulvinar. Aenean sit amet porttitor ligula. Donec eu nulla neque.
 
 ## :fontawesome-solid-user-graduate: Education
 
