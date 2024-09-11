@@ -3,7 +3,7 @@
 
 ## Jan. 2021 – present 
 
-* Second Year complete, Degree Physics and Chemistry (98801), UNISA (3-year degree)
+* Third year Year complete, Degree Physics and Chemistry (98801), UNISA (Final year degree)
 
 ## Jul. 2020 – Jan. 2021
 
@@ -22,7 +22,7 @@
 ## Sep. 2017 – Apr. 2019 
 
 * Degree in animation and gaming (complete), Atlantic International University (Credits transferred from 2 years of Animation Diploma).
-* Self-Study in math and C++ programming for game development.)
+* Self-Study in math and C++ programming for game development.
 
 ## Oct. 2016 – Sep. 2017
 
