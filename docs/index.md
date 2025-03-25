@@ -1,12 +1,13 @@
 # Vaughan Royce Kildaire
 
+$$
+\Gamma \left( t \right) = \int\limits_0^\infty {s^{t - 1} e^{ - s} ds}
+$$
+
 ## Who am I?
+<p><!-- fix this ///TODO///TODO///TODO -->
+<img src="lab_pic.jpg" width=45% height=45% style="float:right"></img>
 
-<img src="lab_pic.jpeg" width=50% height=50% style="float:right;margin-left:12px;margin-bottom:20px"></img>
-
-$$
-\Gamma \left( x \right) = \int\limits_0^\infty {s^{x - 1} e^{ - s} ds}
-$$
 
 Placeholder text:
 I am dog
@@ -16,6 +17,9 @@ I am dog
 * UNISA: **BSC Degree in Physics and Chemistry (in progress)**
 * Atlantic International University: **Degree in Animation**
 * Bridge House: **Highschool**
+
+</p><!-- fix this ///TODO///TODO///TODO -->
+
 
 ## Skills & Experience
 
