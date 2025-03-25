@@ -30,7 +30,7 @@ In sit amet odio lacus. Mauris quis varius odio. Aenean sit amet eros volutpat q
 
 <u>Lab Assistant</u>: Capable lab assistant for setting up apparatus and glassware, titration, A/B extraction etc. Familiar with the general chemistry laboratory environment.
 
-## :fontawesome-solid-briefcase: Experience
+## :times-new-roman: Experience <!-- :fontawesome-solid-briefcase: Experience -->
 
 ### Tutoring
 
