@@ -1,4 +1,4 @@
 :fontawesome-solid-briefcase: Experience
 ==========
 
-![](../banner.jpeg)
+![](./banner.jpeg)

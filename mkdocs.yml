@@ -36,8 +36,8 @@ nav:
   - Education: education.md
   - Experience: experience.md
   - Personal projects:
-      - Index: projects/
-      - Lye concentration: projects/lye_concentration
+      - Index: projects/index.md
+      - Lye concentration: projects/lye_concentration.md
   - About me: about.md
-  - Gallery: media/Gallery
+  - Gallery: media/Gallery/index.md
   - Contact: contact.md
