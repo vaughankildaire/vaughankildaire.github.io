@@ -2,7 +2,7 @@
 
 ## Who am I?
 
-<img src="profile.jpeg" width=35% height=35% style="float:right;margin-left:20px;margin-bottom:20px"></img>
+<img src="lab_pic.jpeg" width=50% height=50% style="float:right;margin-left:12px;margin-bottom:20px"></img>
 
 $$
 \Gamma \left( x \right) = \int\limits_0^\infty {s^{x - 1} e^{ - s} ds}
