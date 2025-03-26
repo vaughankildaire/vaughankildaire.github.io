@@ -5,23 +5,23 @@ $$
 $$
 
 ## Who am I?
-<p><!-- fix this ///TODO///TODO///TODO -->
-<img src="lab_pic.jpg" width=45% height=45% style="float:right"></img>
+<!-- fix this ///TODO///TODO///TODO -->
+<img src="lab_pic.jpg" width=45% height=45% style="float:right;margin-left:12px"></img>
 
 
-Placeholder text:
+Placeholder text : <TODO - fix this\><!--TODO - fix this--><br>
 I am dog
 
 ## :fontawesome-solid-user-graduate: Education
 
-* UNISA: **BSC Degree in Physics and Chemistry (in progress)**
-* Atlantic International University: **Degree in Animation**
+* UNISA: **BSc Degree in Physics and Chemistry (Complete 2024)**
+* Atlantic International University: **Degree in Animation & game design**
 * Bridge House: **Highschool**
 
-</p><!-- fix this ///TODO///TODO///TODO -->
+<!-- fix this ///TODO///TODO///TODO -->
 
 
-## Skills & Experience
+## :fontawesome-solid-flask-vial: Skills & :fontawesome-solid-briefcase: Experience
 
 <u>Educator</u>: Tutoring in math, physics and chemistry.
 
@@ -31,7 +31,7 @@ I am dog
 
 <u>Lab Assistant</u>: Capable lab assistant for setting up apparatus and glassware, titration, A/B extraction etc. Familiar with the general chemistry laboratory environment.
 
-## :times-new-roman: Experience <!-- :fontawesome-solid-briefcase: Experience -->
+## :fontawesome-solid-briefcase: Experience
 
 ### Tutoring
 
