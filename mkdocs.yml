@@ -38,6 +38,7 @@ nav:
   - Personal projects:
       - Index: projects/index.md
       - Lye concentration: projects/lye_concentration.md
+      - HCl vs NaOH Titration: projects/titration_1.md
   - About me: about.md
   - Gallery: media/Gallery/index.md
   - Contact: contact.md

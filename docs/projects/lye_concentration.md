@@ -1,6 +1,3 @@
-Lye concentration ($LC$)
-========================
-
 ## Measurements
 
 | Amount | Breakdown |

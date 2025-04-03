@@ -86,7 +86,8 @@ environment.
 
 ## Projects
 
-1. [Chemistry project: Soap]()
+1. [HCl vs NaOH Titration](/projects/titration_1.md)
+2. [Chemistry project: Soap](/projects/lye_concentration.md)
 
 ---
 
