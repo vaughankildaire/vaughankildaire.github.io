@@ -93,6 +93,6 @@ environment.
 
 <br>
 
-<center>[View my CV :octicons-download-24:](docs/cv.pdf){ .md-button }</center>
+<center>[View my CV :octicons-download-24:](documents/cv.pdf){.md-button }</center>
 
 <br>
