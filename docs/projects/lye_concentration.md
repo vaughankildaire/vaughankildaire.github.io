@@ -9,7 +9,7 @@
 |High water $25\%\space LC$   | $25\%\space NaOH$ (Lye)   |
 |                             | $75\%\space H_20$ (Water) |
 
-> Lye AKA Caustic soda, is sodium hudroxide ($NaOH$)
+> "Lye" A.K.A. "Caustic soda", is the chemical Sodium hydroxide ($NaOH$)
 
 ---
 
