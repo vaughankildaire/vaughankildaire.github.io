@@ -6,11 +6,13 @@ theme:
     logo: fontawesome/solid/flask
   palette:
     scheme: slate
+  custom_dir: docs/.overrides # remove local icons if it is not working.
+  font: false # add custom font.
 
 
+extra_css:
+- assets/stylesheets/extra_style.css
 
-extra:
-  generator: false
 
 copyright: <img style="float:left;gap;margin-left:20px" src="/signature_w.png" width=200></img><p style="position:absolute;bottom:0px;right:50px;text-align:right;"> website credit: T.B. Kildaire</p>
 
@@ -24,6 +26,14 @@ markdown_extensions:
   - pymdownx.emoji:
       emoji_index: !!python/name:material.extensions.emoji.twemoji
       emoji_generator: !!python/name:material.extensions.emoji.to_svg
+  # Strategy: Use an absolute path
+  - pymdownx.pathconverter:
+      base_path: 'YOUR_REPO_NAME' # default: ''
+      relative_path: '' # default ''
+      absolute: false # default: false
+      tags: 'a script img link object embed'
+
+
 
 extra_javascript:
   - javascripts/mathjax.js
@@ -32,6 +42,8 @@ extra_javascript:
 
 nav:
   - Home: index.md
+  - HowTo:
+    - Embedding a PDF file: howto/embedding_pdf.md
   - Academic record: academics.md
   - Education: education.md
   - Experience: experience.md

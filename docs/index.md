@@ -1,7 +1,7 @@
 # Vaughan Royce Kildaire
 
 $$
-\Gamma \left( t \right) = \int\limits_0^\infty {s^{t - 1} e^{ - s} ds}
+\Gamma \left( z \right) = \int\limits_0^\infty {t^{z - 1} e^{ - t} dt}
 $$
 
 ## Who am I?
@@ -9,7 +9,7 @@ $$
 <img src="lab_pic.jpg" width=45% height=45% style="float:right;margin-left:12px"></img>
 
 
-Placeholder text : <TODO - fix this\><!--TODO - fix this--><br>
+Placeholder text : <TODO - fix this\><!--TODO - MUST DO THIS, write a good intro--><br>
 I am supposed to write an intro here, but I am still busy setting up my website.
 So for now just use this link "see my CV", to well...see my CV, and this link to "about me", for more
 information on the person I am (its boring in my opinion so just skim through it).
@@ -107,7 +107,7 @@ environment.
 <br><br>
 [Letters of referance :octicons-download-24: :fontawesome-solid-face-smile:](documents/Letters of Reference.pdf){.md-button }
 <br><br>
-[See my Academic Record :octicons-download-24: :fontawesome-bank:](documents/Total_Academic_Record (UNISA).pdf){.md-button }
+[See my Academic Record :octicons-download-24: :fontawesome-solid-building-columns:](documents/Total_Academic_Record (UNISA).pdf){.md-button }
 </center>
 
 <br>
