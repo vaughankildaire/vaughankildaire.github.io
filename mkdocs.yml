@@ -19,7 +19,7 @@ copyright: <img style="float:left;gap;margin-left:20px" src="/signature_w.png" w
 markdown_extensions:
   - pymdownx.superfences
   - pymdownx.tabbed:
-      alternate_style: true 
+      alternate_style: true
   - pymdownx.arithmatex:
       generic: true
   - attr_list
