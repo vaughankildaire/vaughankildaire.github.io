@@ -1,6 +1,5 @@
 <!-- file: docs/howto/embedding_pdf.md -->
 
-
 ## Embedding a PDF file
 
 <object style="width:100%; height:800px; padding-top:5px; padding-bottom:5px;" width="actual-width.px" \
