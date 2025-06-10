@@ -6,15 +6,14 @@ theme:
     logo: fontawesome/solid/flask
   palette:
     scheme: slate
-  custom_dir: docs/.overrides # remove local icons if it is not working.
-  font: false # add custom font.
+
 
 
 extra_css:
 - assets/stylesheets/extra_style.css
 
 
-copyright: <img style="float:left;gap;margin-left:20px" src="/signature_w.png" width=200></img><p style="position:absolute;bottom:0px;right:50px;text-align:right;"> website credit: T.B. Kildaire</p>
+copyright: <img style="float:left;gap;margin-left:20px" src="/images/signature_w.png" width=200></img><p style="position:absolute;bottom:0px;right:50px;text-align:right;"> website credit: T.B. Kildaire</p>
 
 markdown_extensions:
   - pymdownx.superfences
@@ -34,11 +33,11 @@ markdown_extensions:
       tags: 'a script img link object embed'
 
 
-
 extra_javascript:
   - javascripts/mathjax.js
   - https://polyfill.io/v3/polyfill.min.js?features=es6
   - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
+
 
 nav:
   - Home: index.md

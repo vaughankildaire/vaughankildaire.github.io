@@ -6,13 +6,22 @@ $$
 
 ## Who am I?
 <!-- fix this ///TODO///TODO///TODO -->
-<img src="lab_pic.jpg" width=45% height=45% style="float:right;margin-left:12px"></img>
+<img src="images/lab deg pic.jpg" width=45% height=65% style="float:right;margin-left:12px"></img>
 
 
 Placeholder text : <TODO - fix this\><!--TODO - MUST DO THIS, write a good intro--><br>
 I am supposed to write an intro here, but I am still busy setting up my website.
 So for now just use this link "see my CV", to well...see my CV, and this link to "about me", for more
-information on the person I am (its boring in my opinion so just skim through it).
+information on the person I am.
+
+
+<del>Its boring in my opinion so just skim through it.</del></br>
+However I was told that I should not under sell myself, and be a bit full of myself:
+
+
+So I just wanted you to know; I'm the best ... you have never quite met a pro like me, I'm the best. No one else even comes close, cause Im the best, so you can throw those other CVs out, because you are about to hire The Best.
+
+
 Thank you : )
 <br><br>
 [see my CV](documents/CV.pdf){.md-button}
