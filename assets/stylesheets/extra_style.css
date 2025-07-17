@@ -2,8 +2,3 @@
   --md-text-font: "Noto Sans";
   --md-code-font: "Noto Mono";
 }
-
-.text-center {
-  position: relative;
-  text-align: center;
-}
