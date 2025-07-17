@@ -9,17 +9,10 @@ $$
 <img src="images/lab deg pic.jpg" width=45% height=65% style="float:right;margin-left:12px"></img>
 
 
-Placeholder text : <TODO - fix this\><!--TODO - MUST DO THIS, write a good intro--><br>
+Placeholder text : <!--TODO - MUST DO THIS, write a good intro--><br>
 I am supposed to write an intro here, but I am still busy setting up my website.
 So for now just use this link "see my CV", to well...see my CV, and this link to "about me", for more
 information on the person I am.
-
-
-<del>Its boring in my opinion so just skim through it.</del></br>
-However I was told that I should not under sell myself, and be a bit full of myself:
-
-
-So I just wanted you to know; I'm the best ... you have never quite met a pro like me, I'm the best. No one else even comes close, cause Im the best, so you can throw those other CVs out, because you are about to hire The Best.
 
 
 Thank you : )
@@ -96,9 +89,38 @@ environment.
 * Private in person and through employer (Teach me 2) online.
 
 ### Arts
+Guitar, bass, and both oil and digital painting.
+3D Animation.
+Voice acting.
 
-* Guitar, bass, and both oil and digital painting.
-* 3D Animation. Voice acting.
+### Laboratory Scientist
+Capable lab assistant for
+
+1. setting up apparatus and glassware,
+
+2. titration,
+
+3. A/B extraction,
+
+4. solvent separation,
+
+5. filtration via pump or gravity and
+
+6. preparing solutions of required concentration.
+
+General knowledge of lab safety, equipment and reagents used in spills or
+emergencies. General knowledge of common apparatus and glassware
+usage. I own a small-scale personal lab, and along with my formal lab
+training from practical work, I am familiar with the general chemistry
+laboratory environment.
+
+---
+
+## links
+
+[Science experiments](https://independent.academia.edu/VaughanKildaire)
+
+[YouTube](https://www.youtube.com/@DeltaDirtyVRK)
 
 ---
 
