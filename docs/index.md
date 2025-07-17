@@ -8,8 +8,7 @@ $$
 <!-- fix this ///TODO///TODO///TODO -->
 <img src="images/lab deg pic.jpg" width=45% height=65% style="float:right;margin-left:12px"></img>
 
-
-Placeholder text : <!--TODO - MUST DO THIS, write a good intro--><br>
+<!--TODO - MUST DO THIS, write a good intro-->
 I am supposed to write an intro here, but I am still busy setting up my website.
 So for now just use this link "see my CV", to well...see my CV, and this link to "about me", for more
 information on the person I am.
