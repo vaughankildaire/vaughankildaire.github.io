@@ -7,7 +7,8 @@ theme:
   palette:
     scheme: slate
 
-
+extra:
+  generator: false
 
 extra_css:
 - assets/stylesheets/extra_style.css
@@ -16,6 +17,9 @@ extra_css:
 copyright: <img style="float:left;gap;margin-left:20px" src="/images/signature_w.png" width=200></img><p style="position:absolute;bottom:0px;right:50px;text-align:right;"> website credit: T.B. Kildaire</p>
 
 markdown_extensions:
+  - md_in_html
+  - abbr
+  - def_list
   - pymdownx.superfences
   - pymdownx.tabbed:
       alternate_style: true
