@@ -1,7 +1,7 @@
 :fontawesome-solid-circle-info: About me
 ========
 
-<a href="../lab_pic.jpg"><img style="float:left;gap;margin-right:15px" src="../lab_pic.jpg" width=360></img></a>
+<a href="../images/lab_pic.jpg"><img style="float:left;gap;margin-right:15px" src="../images/lab_pic.jpg" width=360></img></a>
 
 I enjoy learning, that is possibly the most prominent aspect I have. My love for teaching and explaining concepts to others is ultimately and an excellent understanding of the subjects I have studied, naturally lead me to become a tutor. I find communication with students easy as there I have learnt to adapt my mindset to the age and demographic in question, also in a social setting I enjoy conversation of
 a wide spectrum of topics of varying diversity.
