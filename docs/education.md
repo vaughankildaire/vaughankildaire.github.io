@@ -1,9 +1,9 @@
 :fontawesome-solid-user-graduate: Education
 =========
 
-## Jan. 2021 – present 
+## Jan. 2021 – Oct. 2024 
 
-* Third year Year complete, Degree Physics and Chemistry (98801), UNISA (Final year degree)
+* completed BSc. Degree in Physics and Chemistry, CUM LAUDE - (98801) UNISA.
 
 ## Jul. 2020 – Jan. 2021
 
