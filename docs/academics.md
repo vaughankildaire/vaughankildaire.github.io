@@ -1,7 +1,16 @@
 :fontawesome-solid-scroll: Academic record
 ===============
+<script>
+        const myLink = "/transcript/Total_Academic_Record%20(UNISA).pdf";
+</script>
+
 
 Below are my academic transcripts from the past years, you can also download the official transcript by clicking the link below the table.
+<script>
+        document.write('<p>\
+        <a href=" '+ myLink +' ">Official transcript</a>\
+        </p>');
+</script>
 
 === "First year"
 
@@ -16,8 +25,7 @@ Below are my academic transcripts from the past years, you can also download the
     |2021 |OCT |PHY150-5 |Mechanics (Physics) |89| Passed with Distinction |5 |12|
     |2021 |OCT |PHY150-6 |Electromagnetism and Heat (Fisika)| 90| Passed with Distinction |5 |12|
     |2021 |OCT |PLS260-7 |Philosophy of Science |68 |Passed |6 |12|
-
-    <center>[Official transcript :octicons-download-24:](transcripts/13641751_exam_results Year1.pdf){ .md-button }</center>
+ 
 
 === "Second year"
 
@@ -35,8 +43,7 @@ Below are my academic transcripts from the past years, you can also download the
     |2022  |OCT   |PHY260-1 Classical Mechanics |90 |Passed with Distinction |6 |12|
     |2022  |OCT   |PHY260-2 Electricity and Magnetism (Physics) |61 |Passed |6 |12|
     |2022  |OCT   |PHY260-6 Waves (Physics) |72 |Passed |6 |12|
-
-    <center>[Official transcript :octicons-download-24:](transcripts/13641751_exam_results%20Year2.pdf){ .md-button }</center>
+    
 
 === "Third year"
 
@@ -56,6 +63,16 @@ Below are my academic transcripts from the past years, you can also download the
     |2024  |FEB   |PHY370-7 Solid State Physics |80 |Passed with Distinction |7 |12|
     |2023  |OCT   |PHY370-8 Atomic and Nuclear Physics |84 |Passed with Distinction |7 |12|
     |2023  |OCT   |PHY370-9 Computational Modeling |92 |Passed with Distinction |7 |12|
-    <center>[Official transcript (Year A) :octicons-download-24:](transcripts/13641751_exam_results%20Year3-A.pdf){ .md-button }</center>
-    <center>[Official transcript (Year B) :octicons-download-24:](transcripts/13641751_exam_results%20Year3-B.pdf){ .md-button }</center>
+
+
+=== "Fourth year"
+
+    | Year | Month | Code | Name of Study Unit | Percentage (%) | NQF level | NQF crds |
+    | ---- | ---- | ---- | ---- | ----- | ---- | ---- |
+
+    
+<center>
+    [Official transcript :octicons-download-24:]( {{links.AcRec}} ){.md-button}
+</center>
+
 

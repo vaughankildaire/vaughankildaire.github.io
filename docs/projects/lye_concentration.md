@@ -1,3 +1,6 @@
+<!-- Decide What to do with this! ///TODO///TODO///TODO -->
+
+
 ## Measurements
 
 | Amount | Breakdown |
@@ -21,7 +24,7 @@ $$
 C=\frac{n}{V},\space\space n=\frac{N}{N_A}=\frac{m}{M}
 $$
 
-<!-- TODO: "cancle"?" - what is that word Vaughan? -->
+
 If $m$ is in $[g]$, then $M$ in $[g * mol^{-1}]$ and so on - must cancel? to give $mol$ without magnitude change.
 
 <!-- TODO: Fix the styling of this -->
