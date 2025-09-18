@@ -1,3 +1,3 @@
 
 
-set up gallery
+set up gallery (DO IT!)
