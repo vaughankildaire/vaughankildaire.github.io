@@ -56,6 +56,8 @@ nav:
   - Academic record: academics.md
   - Education: education.md
   - Experience: experience.md
+  - tutor:
+      - tutor poster: tutor/tutor_info.md
   - Personal projects:
       - Index: projects/index.md
       - Lye concentration: projects/lye_concentration.md
